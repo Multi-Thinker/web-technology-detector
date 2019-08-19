@@ -1,0 +1,32 @@
+{
+  "name": "web-technology-detector",
+  "version": "1.0.0",
+  "description": "powerful yet simple tool to detect all technologies and application used in a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Multi-Thinker/web-technology-detector.git"
+  },
+  "keywords": [
+    "javascript",
+    "web",
+    "technology",
+    "cdn",
+    "application",
+    "detection"
+  ],
+  "author": "imultithinker <prothinker00@hotmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Multi-Thinker/web-technology-detector/issues"
+  },
+  "homepage": "https://github.com/Multi-Thinker/web-technology-detector#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7"
+  }
+}
